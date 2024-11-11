@@ -28,5 +28,6 @@ public class BulletBehaviour : MonoBehaviour
     {
         transform.SetParent(newParent);
     }
+//Hola Mundo
 }
 
