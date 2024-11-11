@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\assets\\script\\doorbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\doorbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|g:\\isabella ce vdj\\videojuegosunity\\my project\\assets\\script\\dooropeningbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dooropeningbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|g:\\isabella ce vdj\\videojuegosunity\\my project\\assets\\script\\doorttbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\doorttbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\assets\\script\\doormultitriggered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\doormultitriggered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\assets\\script\\doortimed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\doortimed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\assets\\script\\doortriggered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\doortriggered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\assets\\script\\doorwithkeyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\doorwithkeyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\assets\\script\\inventorypickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventorypickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\assets\\script\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\assets\\script\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoorTimed.cs",
+              "DocumentMoniker": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorTimed.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DoorTimed.cs",
+              "ToolTip": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorTimed.cs",
+              "RelativeToolTip": "Assets\\Script\\DoorTimed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:47:51.277Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorOpeningBehaviour.cs",
+              "DocumentMoniker": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorOpeningBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DoorOpeningBehaviour.cs",
+              "ToolTip": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorOpeningBehaviour.cs",
+              "RelativeToolTip": "Assets\\Script\\DoorOpeningBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:13:41.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoorBehaviour.cs",
+              "DocumentMoniker": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DoorBehaviour.cs",
+              "ToolTip": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorBehaviour.cs",
+              "RelativeToolTip": "Assets\\Script\\DoorBehaviour.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:50:37.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoorTTBehaviour.cs",
+              "DocumentMoniker": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorTTBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DoorTTBehaviour.cs",
+              "ToolTip": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorTTBehaviour.cs",
+              "RelativeToolTip": "Assets\\Script\\DoorTTBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:47:44.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoorTriggered.cs",
+              "DocumentMoniker": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorTriggered.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DoorTriggered.cs",
+              "ToolTip": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorTriggered.cs",
+              "RelativeToolTip": "Assets\\Script\\DoorTriggered.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:47:57.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoorMultiTriggered.cs",
+              "DocumentMoniker": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorMultiTriggered.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DoorMultiTriggered.cs",
+              "ToolTip": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorMultiTriggered.cs",
+              "RelativeToolTip": "Assets\\Script\\DoorMultiTriggered.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:47:55.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoorWithKeyItem.cs",
+              "DocumentMoniker": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorWithKeyItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DoorWithKeyItem.cs",
+              "ToolTip": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\DoorWithKeyItem.cs",
+              "RelativeToolTip": "Assets\\Script\\DoorWithKeyItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:47:30.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryPickUp.cs",
+              "DocumentMoniker": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\InventoryPickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\InventoryPickUp.cs",
+              "ToolTip": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\InventoryPickUp.cs",
+              "RelativeToolTip": "Assets\\Script\\InventoryPickUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:53:17.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item.cs",
+              "ToolTip": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\Item.cs",
+              "RelativeToolTip": "Assets\\Script\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:52:00.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\Inventario.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Inventario.cs",
+              "ToolTip": "G:\\Isabella CE VDJ\\VideojuegosUnity\\My project\\Assets\\Script\\Inventario.cs",
+              "RelativeToolTip": "Assets\\Script\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:51:01.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
